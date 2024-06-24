@@ -1,4 +1,3 @@
-# DevOps-Symphony
 
 ### Overview
 This project integrates multiple DevOps tools and practices to demonstrate a full lifecycle of infrastructure provisioning, configuration management, containerization, and orchestration. The goal is to provide a hands-on example of how to effectively use these tools together in a real-world scenario. The project is divided into three main tasks, each focusing on different aspects of the DevOps pipeline.
